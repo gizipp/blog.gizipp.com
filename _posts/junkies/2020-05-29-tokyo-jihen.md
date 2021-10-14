@@ -57,7 +57,7 @@ Education.
 * 遭難/Sounan -A Distress- https://www.youtube.com/watch?v=YPGupG0ZgVM
 * OSCA https://www.youtube.com/watch?v=Ix8Inb2wAl4
 * 閃光少女/Senkou Shoujo-Flash Girl https://www.youtube.com/watch?v=5jsdarfpsLk
-* Title:群青日和/Gunjou Biyori -Ideal Days For Ultramarine - https://www.youtube.com/watch?v=gD2mhJ3ByGQ
+* 群青日和/Gunjou Biyori -Ideal Days For Ultramarine - https://www.youtube.com/watch?v=gD2mhJ3ByGQ
 * Maronouchi Sadistic
 
 ### Apa aliran dari Tokyo Jihen?
@@ -67,3 +67,7 @@ Pada dasarnya mereka berkiblat dari Jazz. Lalu digabung dengan Rock dengan unsur
 * Rock
 * Jazz
 * POP
+
+### Kesimpulan
+
+Tidak menyesal pernah mendengarkan lagu Tokyo Jihen.
