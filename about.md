@@ -2,6 +2,8 @@
 layout: page
 title: Tentang
 permalink: /about/
+date: 2013-07-21
+last_modified_at: 2021-10-14
 ---
 
 
@@ -9,7 +11,7 @@ Hai!
 
 Inilah aku...
 
-<amp-img src="/assets/site/aku.jpg" width="1080" height="610" layout="responsive" alt="AMP"></amp-img>
+{% include img.html img="/assets/site/aku.jpg" caption="Aku Gilang" %}
 
 ...yang keliatan separo doang,
 
