@@ -11,9 +11,7 @@ tags:
 last_modified_at: 2021-10-14
 ---
 
-Tokyo Jihen atau Tokyo Incidents adalah salah satu band asal Jepang yang sangat saya sukai.
-
-Fenomenal!
+Tokyo Jihen atau Tokyo Incidents adalah salah satu band asal Jepang yang sangat saya sukai. Fenomenal!
 
 Itu adalah kata yang bisa saya berikan tentang impresi terhadap meraka.
 

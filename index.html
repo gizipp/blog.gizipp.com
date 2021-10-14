@@ -6,23 +6,26 @@ layout: default
   <div class="cf frame">
     {% assign sorted_post = site.posts | sort: "last_modified_at" | reverse %}
     {% for post in sorted_post %}
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="post-header">
-            <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-          </header>
-          <section class="post-excerpt" itemprop="description">
-            <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-          </section>
-          <div class="post-meta">
-            {% if post.date %}
-              <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date_to_long_string }}</time>
-            {% else %}
-              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
-            {% endif %}
+      {% if post.category != "log" and post.category != "gixipp" %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+            </section>
+            <!-- <div class="post-meta"> -->
+              <!-- {% if post.date %} -->
+                <!-- Last Modified At -->
+                <!-- <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date_to_long_string }}</time> -->
+              <!-- {% else %} -->
+                <!-- <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time> -->
+              <!-- {% endif %} -->
+            <!-- </div> -->
           </div>
-        </div>
-      </article>
+        </article>
+      {% endif %}
     {% endfor %}
   </div>
 
