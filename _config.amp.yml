@@ -28,6 +28,10 @@ exclude: [.scss, README.md, node_modules, gruntfile.js, package.json, draft]
 baseurl: "/amp" # the subpath of your site, e.g. /blog
 permalink: /:title
 
+include:
+  - '_pages'
+  - '_redirects'
+
 markdown: kramdown
 
 jekyll-minifier:

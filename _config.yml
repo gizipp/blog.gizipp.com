@@ -27,6 +27,10 @@ exclude: [.scss, README.md, node_modules, gruntfile.js, package.json, draft]
 
 permalink: /:title
 
+include:
+  - '_pages'
+  - '_redirects'
+
 markdown: kramdown
 
 jekyll-minifier:
