@@ -8,12 +8,16 @@ tags:
   - opini
   - jepang
   - band
-last_modified_at: 2020-05-31
+last_modified_at: 2021-10-14
 ---
 
 Tokyo Jihen atau Tokyo Incidents adalah salah satu band asal Jepang yang sangat saya sukai.
 
-Walaupun menurut saya secara popularitas di dunia kalah beken jika dibanding Laruku, One OK Rock dll) band ini sebenarnya fenomenal sekali dan paling tidak di Jepang namanya cukup pamor.
+Fenomenal!
+
+Itu adalah kata yang bisa saya berikan tentang impresi terhadap meraka.
+
+Walaupun menurut saya secara popularitas di dunia kalah beken jika dibanding Laruku, One OK Rock dll) band ini sebenarnya fenomenal sekali, dan paling tidak di Jepang namanya cukup pamor.
 
 Kenapa?
 
@@ -36,6 +40,8 @@ Jadi status saat ini (2020/05/31) adalah aktif, walaupun memang sempat bubar.
 Tidak jelas.
 
 ## Seputar Album Tokyo Jihen
+
+Seputar album Tokyo Jihen.
 
 ### Daftar Judul Album Tokyo Jihen
 
