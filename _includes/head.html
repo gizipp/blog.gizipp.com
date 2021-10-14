@@ -21,7 +21,7 @@
   {%- if page.title -%}
     {%- assign title = page.title | escape | append: " - " | append: site.title | escape -%}
   {%- else -%}
-    {%- assign title = site.title | escape | append: " - Web development journey." -%}
+    {%- assign title = site.title | escape | append: " - " | append: site.tagline -%}
   {%- endif -%}
 
   {%- if page.excerpt -%}
