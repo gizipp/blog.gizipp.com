@@ -3,7 +3,36 @@
 
 # About
 
-Personal blog.
+Personal blog GIZIPP.
+
+## Status
+<center>
+  <a href="https://blog.gizipp.com">
+    <img src="https://badgen.net/uptime-robot/status/m784719050-51ddadb173f854745150d7e1" alt="status">
+  </a>
+  <a href="https://blog.gizipp.com">
+    <img src="https://badgen.net/uptime-robot/day/m784719050-51ddadb173f854745150d7e1" alt="(24 hours) uptime">
+  </a>
+  <a href="https://blog.gizipp.com">
+    <img src="https://badgen.net/uptime-robot/week/m784719050-51ddadb173f854745150d7e1" alt="(past week) uptime">
+  </a>
+  <a href="https://blog.gizipp.com">
+    <img src="https://badgen.net/uptime-robot/month/m784719050-51ddadb173f854745150d7e1" alt="(past month) uptime">
+  </a>
+  <a href="https://blog.gizipp.com">
+    <img src="https://badgen.net/uptime-robot/response/m784719050-51ddadb173f854745150d7e1" alt="(last hour) response">
+  </a>
+</center>
+
+## Tools
+
+- [GIZ Tools](https://go.gizipp.com/https://tools.gizipp.com/)
+- [metatags.io](https://go.gizipp.com/https://metatags.io/)
+- [favicon.io](https://go.gizipp.com/https://favicon.io/)
+- [gtmetrix.com](https://go.gizipp.com/https://gtmetrix.com/)
+- [Google PageSpeed Insights](https://go.gizipp.com/https://developers.google.com/speed/pagespeed/insights/)
+- [Google Search Console](https://go.gizipp.com/https://search.google.com/search-console/about)
+
 
 ## Styling
 
@@ -24,3 +53,13 @@ Pull right the element
 - [mademistakes.com](https://go.gizipp.com/https://mademistakes.com/)
 - [blogombal.com](https://blogombal.com/)
 - [nurudin.jauhari.net](https://nurudin.jauhari.net/)
+- [yogasukma.web.id](https://yogasukma.web.id/)
+- [blontankpoer.my.id](http://blontankpoer.my.id/)
+
+## Build for production
+
+```
+jekyll build && jekyll build --config _config.amp.yml
+```
+
+This also generate amp pages.
