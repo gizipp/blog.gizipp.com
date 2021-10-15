@@ -1,6 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4116e536-7c8a-45f4-9871-47183344ce5f/deploy-status)](https://app.netlify.com/sites/blog-gizipp/deploys)
 
-
 # About
 
 Personal blog GIZIPP.
@@ -26,12 +25,12 @@ Personal blog GIZIPP.
 
 ## Tools
 
-- [GIZ Tools](https://go.gizipp.com/https://tools.gizipp.com/)
-- [metatags.io](https://go.gizipp.com/https://metatags.io/)
-- [favicon.io](https://go.gizipp.com/https://favicon.io/)
-- [gtmetrix.com](https://go.gizipp.com/https://gtmetrix.com/)
-- [Google PageSpeed Insights](https://go.gizipp.com/https://developers.google.com/speed/pagespeed/insights/)
-- [Google Search Console](https://go.gizipp.com/https://search.google.com/search-console/about)
+- [GIZ Tools](https://tools.gizipp.com/)
+- [metatags.io](https://metatags.io/)
+- [favicon.io](https://favicon.io/)
+- [gtmetrix.com](https://gtmetrix.com/)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Google Search Console](https://search.google.com/search-console/about)
 
 
 ## Styling
@@ -50,7 +49,7 @@ Pull right the element
 - [matriphe.com](https://matriphe.com/)
 - [flaviocopes.com](https://flaviocopes.com/)
 - [backpackstory.me](https://backpackstory.me/)
-- [mademistakes.com](https://go.gizipp.com/https://mademistakes.com/)
+- [mademistakes.com](https://mademistakes.com/)
 - [blogombal.com](https://blogombal.com/)
 - [nurudin.jauhari.net](https://nurudin.jauhari.net/)
 - [yogasukma.web.id](https://yogasukma.web.id/)
