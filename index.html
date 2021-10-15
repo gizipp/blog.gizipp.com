@@ -15,14 +15,12 @@ layout: default
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
             </section>
-            <!-- <div class="post-meta"> -->
-              <!-- {% if post.date %} -->
-                <!-- Last Modified At -->
-                <!-- <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date_to_long_string }}</time> -->
-              <!-- {% else %} -->
-                <!-- <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time> -->
-              <!-- {% endif %} -->
-            <!-- </div> -->
+            <div class="post-meta">
+              Dipublikasikan <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%d %b %Y" }}</time>
+              {% if post.last_modified_at %}
+              | Terakhir Disunting <time datetime="{{ post.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ post.last_modified_at | date: "%d %b %Y" }}</time>
+              {% endif %}
+            </div>
           </div>
         </article>
       {% endif %}

@@ -6,10 +6,11 @@ layout: default
     <div class="post-meta">
       <h1 class="post-title">{{ page.title }}</h1>
       <br>
-      Dipublikasikan <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %d, %Y" }}</time> |
-      Terakhir Disunting <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %d, %Y" }}</time>
+      Dipublikasikan <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d %b %Y" }}</time>
+      {% if page.last_modified_at %}
+      | Terakhir Disunting <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%d %b %Y" }}</time>
+      {% endif %}
     </div>
-
     <section class="post-content">
       <a name="topofpage"></a>
       {%- include image.html -%}
