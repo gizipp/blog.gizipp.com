@@ -10,14 +10,17 @@ tags:
 last_modified_at: 2021-10-15
 ---
 
+*Passion* dan motivasi menggebu-gebu adalah bahan bakar yang tidak selalu bisa diandalkan untuk mencapai sesuatu. Kebiasaan kecil yang baik, justru lebih penting.
+
 Hari ini dapat petuah tentang atomic habits.
 
 Kebiasaan kecil.
 
-https://jamesclear.com/atomic-habits
+Atomic Habits!
 
-https://fourminutebooks.com/atomic-habits-summary/
+## Referensi
 
-https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
-
-https://aliabdaal.com/book-notes/atomic-habits-summary
+* https://jamesclear.com/atomic-habits
+* https://fourminutebooks.com/atomic-habits-summary/
+* https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
+* https://aliabdaal.com/book-notes/atomic-habits-summary

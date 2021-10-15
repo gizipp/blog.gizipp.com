@@ -7,7 +7,7 @@ tags:
   - stalking
   - tips
   - ngarang
-last_modified_at: 2020-05-26
+last_modified_at: 2021-10-15
 permalink: /:title
 ---
 
@@ -46,3 +46,20 @@ Ini adalah bagian esensial. Dan nomer 1, 2, dan 3 mungkin terkesan mengada-ada. 
 
 
 Jadi, apakah kamu computer geeks dan ingin berhenti Stalking? Coba kamu 'cermati' point empat yaaaa! Happy hello world, get real life, dude! ~~~o
+
+***
+
+#### 📒 Catatan Perubahan
+
+##### ✔️ 2013-02-10
+
+Publikasi awal perihal stalking "Kenapa (Computer) Geeks Berbakat Stalking?" yang merupakan tulisan parodi.
+
+##### ✔️ 2020-05-26
+
+Penambahan ilustrasi dan perubahan.
+
+##### ✔️ 2021-10-15
+
+* Penyuntingan dan editing ulang.
+* Penambahan emoji menarik. ✨
