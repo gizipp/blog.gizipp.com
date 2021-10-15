@@ -15,3 +15,9 @@ Hari ini dapat petuah tentang atomic habits.
 Kebiasaan kecil.
 
 https://jamesclear.com/atomic-habits
+
+https://fourminutebooks.com/atomic-habits-summary/
+
+https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
+
+https://aliabdaal.com/book-notes/atomic-habits-summary
