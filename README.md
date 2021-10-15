@@ -1,15 +1,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4116e536-7c8a-45f4-9871-47183344ce5f/deploy-status)](https://app.netlify.com/sites/blog-gizipp/deploys)
 
 
-blog.GIZIPP.COM - TUKANG KETIK
-
 # About
 
-Codebase of personal blog blog.gizipp.com
-
+Personal blog.
 
 ## Styling
-
 
 Centering the element
 
@@ -22,11 +18,9 @@ Pull right the element
 
 ## References
 
-- [pawelurbanek.com](https://go.gizipp.com/https://pawelurbanek.com/)
-- [davidverhasselt.com](https://go.gizipp.com/https://davidverhasselt.com/)
-- [nbsoftsolutions.com](https://go.gizipp.com/https://nbsoftsolutions.com/)
-- [flaviocopes.com](https://go.gizipp.com/https://flaviocopes.com/)
-- [prathamesh.tech](https://go.gizipp.com/https://prathamesh.tech/)
-- [blog.webjeda.com](https://go.gizipp.com/https://blog.webjeda.com/)
+- [matriphe.com](https://matriphe.com/)
+- [flaviocopes.com](https://flaviocopes.com/)
+- [backpackstory.me](https://backpackstory.me/)
 - [mademistakes.com](https://go.gizipp.com/https://mademistakes.com/)
-- [kaklabs.com](https://go.gizipp.com/https://www.kaklabs.com/)
+- [blogombal.com](https://blogombal.com/)
+- [nurudin.jauhari.net](https://nurudin.jauhari.net/)
