@@ -2,15 +2,17 @@
 layout: post
 title: "#4 IJIPP &ldquo;Happy New Yeah!&rdquo; Comicstrip!"
 description:  Si ijipp setelah tahun baruan, atau lebih tepatnya malam minggu pertama di tahun 2015.
-category: gibipp
+category: ijipp
 tags: [comicstrip, ijipp]
+last_modified_at: 2021-10-23
 ---
-
-![ijipp comicstrip happy new yeah](/images/post/ijipp/4-ijipp-comicstrip-for-geeks-happy-new-yeah-by-gizipp.png "IJIPP Comicstrip! Happy new yeah!")
 
 Ini adalah malam minggu pertama di tahun 2015. *eh*
 
 Sori!
+
+
+![ijipp comicstrip happy new yeah](/images/post/ijipp/4-ijipp-comicstrip-for-geeks-happy-new-yeah-by-gizipp.png "IJIPP Comicstrip! Happy new yeah!")
 
 Ini sebenarnya diriku sudah pasti mencampakkan GIXIPP, sudah saatnya memulai GELLY dan sudah ketauan menganggurkan IJIPP.
 

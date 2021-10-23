@@ -4,5 +4,8 @@
            layout="responsive"
            src="{{ include.img }}"></amp-img>
 {%- else -%}
-  <img layout="responsive" src="{{ include.img }}" class="responsive">{{ include.caption }}</img>
+  <figure>
+    <img layout="responsive" src="{{ include.img }}" class="responsive" alt="{{ include.caption }}">
+    <figcaption>{{ include.caption }}</figcaption>
+  </figure>
 {%- endif -%}
