@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Tokyo Jihen
+title: 'Tokyo Jihen 🎶'
 shorttitle: Tokyo Jihen
-description: Seputar Tokyo Jihen, status bubar atau tidak, serta daftar album dan lagu favorit saya.
+description: 'Seputar Tokyo Jihen 🎶, status bubar atau tidak, serta daftar album dan lagu favorit saya.'
 category: junkies
 tags:
   - opini
   - jepang
   - band
 last_modified_at: 2021-10-14
+last_modified_at: 2021-12-02
 ---
 
 Tokyo Jihen atau Tokyo Incidents adalah salah satu band asal Jepang yang sangat saya sukai. Fenomenal!
@@ -19,15 +20,13 @@ Walaupun menurut saya secara popularitas di dunia kalah beken jika dibanding Lar
 
 Kenapa?
 
-Karena skill mereka sangat luar biasa.
+Karena skill mereka sangat luar biasa. Tiap individu punya kemampuan diatas rata-rata. Tergabung, melebuh jadi satu menjadi sesuai yang harmonis namun unik!
 
 ## Apakah Tokyo Jihen bubar?
 
 Ya, dan tidak!
 
-Mereka sempat bubar tahun 2012.
-
-Namun tahun 2020 kemarin bergabung lagi. :tada:
+Mereka sempat bubar tahun 2012. Namun tahun 2020 kemarin bergabung lagi. 🎉
 
 Dan ini merupakan kabar gembira, karena tahun 2020 juga mengeluarkan single dan lagu baru.
 
@@ -74,4 +73,4 @@ Pada dasarnya mereka berkiblat dari Jazz. Lalu digabung dengan Rock dengan unsur
 
 ### Kesimpulan
 
-Tidak menyesal pernah mendengarkan lagu Tokyo Jihen.
+Tidak menyesal pernah mendengarkan lagu-lalu Tokyo Jihen. Mantapu Jiwa!
